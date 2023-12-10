@@ -1,0 +1,22 @@
+body{
+    background-image:url("../images/bg-image.png");
+}
+/* .main-div{
+    background-image:url("../images/tree.jpg");
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+} */
+.dotted{
+    border-style: dotted;
+}
+.solid{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 10px 5px 2px 10px;
+    border-color:aqua
+    
+}
+.double{
+    border-style:double;
+}
