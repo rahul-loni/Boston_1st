@@ -1,0 +1,32 @@
+.first-div{
+    background-color: gray;
+    border: 5px solid black;
+    padding: 50px;
+}
+.second-div{
+    background-color:green;
+    border: 5px solid black;
+    padding-top: 20px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right:10px
+    /* padding:2px 20px 10px 15px; */
+}
+
+/* margin */
+
+.third-div{
+    background-color: gray;
+    border: 5px solid black;
+    padding: 50px;
+    /* margin: 20px; */
+    margin-top: 20px;
+    /* margin-left: 20px; */
+    margin-right: 20px;
+    text-align:center;
+}
+.container{
+    background-color:gray;
+    padding:10px;
+    border: 5px solid black;
+}
